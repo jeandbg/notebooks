@@ -8,3 +8,8 @@ Não raro, há alguns 'interlúdios' porque me bateu uma curiosidade em certa pa
 
 Como não tenho experiência de trabalho (no momento), há também algumas observações sobre o que suspeito que são boas/más práticas.
 
+### Algumas observações:
+- Alguns notebooks são bem introdutórios, como os dois de Python pra Dados. Não incluí muitas observações que eu me lembre;
+- Alguns notebooks estão incompletos, como o de Python - Inteligência Artificial Aplicada eu não terminei o último projeto do curso (por isso não finalizei o curso ainda); ou o de Scikit-Learn do Free Code Camp (que eu resolvi terminar a trilha da Alura antes de dar prosseguimento).
+- Alguns notebooks demandam bases de dados externas, que eu teria que baixar e adicionar ao notebook pra rodar; depois de ter feito uns assim, comecei a dar um jeito de puxar as bases de dados direto online, pra que seja possível rodar em qualquer lugar.
+- Que eu me lembre, todos os notebooks foram feitos no google Colab, e não no Jupyter, porque é o ambiente que a Alura geralmente usa.

@@ -34,7 +34,7 @@ class Livro:
 
 #4. Adicione um método estático chamado verificar_disponibilidade à classe Livro que recebe um ano como parâmetro e retorna uma lista dos livros disponíveis publicados nesse ano.
     
-    @staticmethod                # métodos estáticos não estavam no curso, mas o ChatGPT me explicou
+    @staticmethod                # métodos estáticos não estavam no curso, só no curso seguinte
     def verificar_disponibilidade(ano):
         livros_disponiveis = []
 
@@ -44,7 +44,7 @@ class Livro:
 
         return livros_disponiveis
 
-    def __repr__(self):
+    def __repr__(self):         # o ChatGPT me ensinou este método, que é como o __str__ mas para listas
         return f'{self._titulo} | {self._ano_publicacao} | {self._disponivel}'
 
 
